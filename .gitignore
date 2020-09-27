@@ -1,0 +1,16 @@
+utils/
+app/build/*
+# Local config files
+crowdin.properties
+local.properties
+
+# IntelliJ
+*.iml
+.idea
+
+# Gradle
+.gradle
+build
+
+# Android Studio
+captures
